@@ -1,7 +1,7 @@
 # onion-architecture
 Onion Architecture Sample Project
 
-This talk is about software architecture that is structured like the layers of an onion.
+This is about software architecture that is structured like the layers of an onion.
 
 Onion Architecture is a set of principles that defines how we design a piece of software. It allow us to design software that is testable, maintainable, and independent of infrastructure.
 
